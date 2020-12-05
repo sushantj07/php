@@ -6,7 +6,7 @@
 
 <?php
 echo "Hello World! Welcome to all! ";
-echo "Have a  nice day";
+echo "PHP page hosted";
 ?>
 
 </body>
